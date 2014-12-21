@@ -8,7 +8,7 @@ If you need help setting this up, message me here I guess.
 
 Requires
  - [NodeJS and npm](http://nodejs.org/)
- - [SlimmerJS](http://slimerjs.org/download.html)
+ - [SlimerJS](http://slimerjs.org/download.html)
  - [7zip](http://www.7-zip.org/)'s 7za in your path somewhere (`apt-get install p7zip` should work in theory.)
   - Windows users may have to add 7za.exe to their PATH.
 
