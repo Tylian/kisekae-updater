@@ -26,3 +26,7 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+# SlimerJS is platform dependant, get the users to download it.
+lib/slimerjs/*
+!lib/slimerjs/.gitkeep
