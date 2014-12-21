@@ -17,10 +17,10 @@ Requires
  - In the lib/slimerjs folder, extract the contents of slimerjs.
  - Open a command prompt in the root directory of the script and run
 ```sh
-npm install
+$ npm install
 ```
 And it should work. Run the following (for example):
 ```sh
-    node path/to/kisekae-update k_k.141221
+$ node path/to/kisekae-update k_k.141221
 ```
 To download the current version to the folder k_k.141221, patch it for offline use and then 7z the archive with the password "4chan".
